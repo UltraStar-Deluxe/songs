@@ -9,7 +9,7 @@ If there is any content in this repository without legal permission, please send
 | Where | What |
 |---|---|
 | / | Main repo folder. Try to not add any new files here, but instead place them in a fitting subfolder. |
-| /Demo samples/ | Song packs for demonstration- or development-purposes |
+| /Demo Samples/ | Song packs for demonstration- or development-purposes |
 | /Public Domain/ | Song packs that are completely licensed under [Public Domain](https://creativecommons.org/share-your-work/public-domain/) or compatible licenses |
 | /Creative Commons/ | Song packs licensed under a variation of [Creative Commons](https://creativecommons.org/) or compatible. |
 
