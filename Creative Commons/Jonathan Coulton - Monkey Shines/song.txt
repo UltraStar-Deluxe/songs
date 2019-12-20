@@ -1,0 +1,123 @@
+#TITLE:Monkey Shines
+#ARTIST:Jonathan Coulton
+#LANGUAGE:English
+#MP3:audio.mp3
+#COVER:cover.jpg
+#BACKGROUND:background.jpg
+#BPM:320
+#GAP:810
+: 0 3 6 When
+: 4 2 7  it
+: 8 3 9  gets
+: 16 6 7  bad
+: 28 3 6  do
+: 32 3 4  you
+: 36 2 2 ~
+: 40 2 2  be
+: 44 6 2 lieve
+- 52
+: 60 2 2 It
+: 64 3 2  will
+: 70 3 -1  get
+: 76 3 2  bet
+: 80 3 2 te
+: 84 4 4 ~r
+- 90 108
+: 128 2 6 Can
+: 132 2 7  you
+: 136 2 9  for
+: 140 7 7 give
+: 152 2 6  a
+: 156 3 4  bi
+: 160 4 2 ~g
+: 167 2 2  mis
+: 175 5 2 take?
+- 182 228
+: 248 2 6 Is
+: 252 2 7  it
+: 256 5 7  real
+: 264 4 6 ly
+: 272 3 6  li
+: 276 6 4 ving
+- 284
+: 288 2 2 If
+: 292 7 1  you're
+: 304 3 2  li
+: 309 3 1 ving
+: 316 4 2  by
+: 324 2 1  the
+: 328 3 2  let
+: 333 3 2 te
+: 338 3 4 ~r?
+- 343 356
+: 376 5 7 How
+: 384 3 7  ma
+: 389 3 6 ny
+: 396 4 6  mon
+: 404 7 4 keys
+: 416 3 4  does
+: 421 3 2  it
+: 428 3 2  ta
+: 432 5 4 ~ke
+- 439 440
+: 459 2 4 To
+: 464 5 6  change
+: 472 2 7  a
+: 476 4 9  life
+* 484 11 11 time?
+- 497 498
+* 519 5 16 Your
+: 527 5 15  mon
+: 535 2 13 key
+: 540 8 11  got
+: 551 2 8  a
+: 556 8 9  se
+: 567 2 8 cond
+: 572 9 9  chance
+- 582
+: 583 2 8 He
+: 588 4 9  thinks
+: 596 4 8  he'll
+: 604 4 9  take
+: 612 3 11  it
+- 617 627
+: 647 5 16 Your
+: 655 5 15  mon
+: 663 3 13 key
+: 668 7 11  knows
+: 679 2 8  that
+: 684 7 9  life
+- 693
+: 695 2 8 Is
+: 700 8 9  on
+: 711 2 8 ly
+* 716 4 13  what
+: 723 4 11  you
+: 731 4 9  make
+: 739 4 11  it
+- 745 746
+: 763 2 6 And
+: 767 2 8  once
+: 771 2 9  you
+: 775 5 11  learn
+: 783 5 9  how
+: 791 2 8  to
+: 795 5 8  love
+- 802 803
+: 811 2 4 It's
+: 816 7 6  time
+: 827 2 8  to
+: 831 3 8  let
+: 836 2 4  it
+: 844 6 4  show
+- 852 853
+: 871 5 4 There's
+* 879 9 13  mon
+: 892 7 11 key
+: 904 8 9  shines
+: 917 7 8  wher
+: 928 2 6 e
+: 932 2 4 ver
+: 936 4 3  you
+* 944 43 4  go.
+E
