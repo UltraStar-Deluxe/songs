@@ -3,7 +3,7 @@
 #LANGUAGE:English
 #GENRE:Rock
 #EDITION:Creative Commons
-#MP3:song.mp3
+#MP3:audio.mp3
 #COVER:cover.jpg
 #BACKGROUND:background.jpg
 #BPM:236
