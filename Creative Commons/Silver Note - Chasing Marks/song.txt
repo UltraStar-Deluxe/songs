@@ -4,11 +4,10 @@
 #BPM:260
 #GAP:7664
 #CREATOR:Renard
-#GENRE:Rock
+#GENRE:Rock,Pony
 #YEAR:2015
 #COVER:cover.png
 #BACKGROUND:background.jpg
-#GENRE:Pony
 #EDITION:My Little Pony
 #LANGUAGE:English
 #COMMENT:http://www.mylittlekaraoke.com/
