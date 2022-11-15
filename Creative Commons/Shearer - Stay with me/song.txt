@@ -1,7 +1,7 @@
 #TITLE:Stay with me
 #ARTIST:Shearer
 #LANGUAGE:English
-#MP3:song.ogg
+#MP3:audio.ogg
 #COVER:cover.jpg
 #BACKGROUND:background.jpg
 #BPM:294,06

@@ -1,4 +1,5 @@
 #TITLE:Dance, Soterios Johnson, Dance
+#ARTIST:Jonathan Coulton
 #MP3:audio.mp3
 #COVER:cover.jpg
 #BACKGROUND:background.jpg
